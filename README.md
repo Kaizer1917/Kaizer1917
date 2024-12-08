@@ -2,6 +2,9 @@
 
 # 💫 About Me:
 Hello, my name is Kirill and I am a quant researcher 👨‍🔬<br>🔭 I’m currently working on TSF based on SSM architecture(in the MSE metric the average result was 0.321)<br>👯 I’m looking to collaborate on large repositories 📚 on quantum topics 🧠<br>🌱 I’m currently learning HIPPO framework<br><br>
+If you'd like to connect or support my endeavors, here are my contact details:
+  - email: `k.yarosh.internet.2023@gmail.com`
+  - telegram: `@K_I_17_R_A`
 
 
 # 💻 Tech Stack:
